@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alstonsun, 28M, from shanghai China
+- 👀 I’m interested in python and quant
+- 🌱 I’m currently learning python to use to do quant finance
